@@ -1,0 +1,10 @@
+{
+    "skeletons": {
+        "pskeleton/hello-world": {
+            "versions": [
+                "1.0"
+            ],
+            "current-version": "1.0"
+        }
+    }
+}
