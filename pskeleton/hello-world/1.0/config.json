@@ -1,3 +1,11 @@
 {
-    "variables": {}
+    "variables": {
+        "%PSKELETON_WHO%": {
+            "title": "Who yout want to greet?",
+            "default": "world",
+            "files": [
+                "hello_world.sh"
+            ]
+        }
+    }
 }

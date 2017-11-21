@@ -1,0 +1,11 @@
+language: php
+
+sudo: false
+
+dist: trusty
+
+php:
+    - '7.0'
+
+script:
+    - php validate.php

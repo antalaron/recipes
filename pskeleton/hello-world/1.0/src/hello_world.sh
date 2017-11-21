@@ -1,3 +1,9 @@
 #!/bin/sh
 
-echo "Hello, world!"
+##
+#
+# This script greets %PSKELETON_WHO%.
+#
+##
+
+echo "Hello, %PSKELETON_WHO%!"

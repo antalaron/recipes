@@ -1,6 +1,7 @@
 {
     "skeletons": {
         "pskeleton/hello-world": {
+            "description": "Test 'Hello world!' skeleton",
             "versions": [
                 "1.0"
             ],
